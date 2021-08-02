@@ -1,9 +1,6 @@
 <?php
 
 
-
-
-
 if(isset($_POST['limit'], $_POST['start']))
 {
     $con=mysqli_connect('localhost','root','');
